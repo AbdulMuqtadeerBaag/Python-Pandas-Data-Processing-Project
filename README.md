@@ -186,7 +186,6 @@ Python-Pandas-Data-Processing-Project/
 │   ├── Analytical_Sales.csv
 │   └── Sales_Analysis.xlsx
 │
-├── requirements.txt
 ├── LICENSE
 └── README.md
 ```
