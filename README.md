@@ -27,7 +27,7 @@ It covers data extraction, exploratory data analysis, data cleaning, quality val
 
 The project follows a structured six-stage data processing pipeline.
 
-![Project Workflow](./Docs/Workflow.jpeg)
+![Project Workflow](./Doc/Workflow.jpeg)
 
 ---
 
